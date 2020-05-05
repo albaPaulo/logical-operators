@@ -1,0 +1,87 @@
+
+body{
+    line-height: 2;
+    box-sizing: border-box;
+    
+}
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 35%;
+    padding: 12px 14px 14px;
+    box-sizing: border-box;
+    background-color: #5689d0;
+    background-position: left top;
+   
+ }
+article{
+    box-sizing: border-box;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+
+}
+
+article h1{
+    position: relative;
+    margin: 0% 7% 7%;
+    color: white;
+}
+article h2{
+    box-sizing: border-box;
+    position: relative;
+    top: 460px;
+    color: white;
+    font-size: 20px;
+    font-size: 20px;
+}
+article img{
+    box-sizing: border-box;
+    height: 80%;
+    width: 140%;
+    padding: 1% 25%;
+    float: right;
+    position: relative;
+    right: -20%;
+    top: -80px;
+   
+ }
+
+main{
+    position: relative;
+    box-sizing: border-box;
+    padding: 40px 20px;
+    position: relative;
+    margin-left: 35%;
+    width: 65%;
+    height: 2000px;
+    background: blue;
+    border-radius: 20px;
+
+}
+.main-about1{
+    box-sizing: border-box;
+    background-color: rgba(255, 4, 197, 0.1);
+    margin: 400px 40px 40px;
+    background-image: url(../imagens/fabianaGatinho.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    padding-top: 480px;
+}
+.main-about1 p{
+    font-size: 15px;
+    margin: 0px 50px;
+    text-align: center;
+    color: black;
+    font-weight: 600;
+    background-color: white;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 10px
+    
+}
+
+
